@@ -2,7 +2,7 @@
   "images": [
     {
       "id": 1,
-      "views": 0,
+      "views": 3,
       "url": "/images/landscape.jpeg",
       "name": "Tree",
       "tags": [
@@ -10,7 +10,8 @@
         "landscape"
       ],
       "timestamp": "Sat, 08 Jun 2024 19:04:25 GMT",
-      "nickname": "John Doe"
+      "nickname": "John Doe",
+      "likes": 1
     },
     {
       "id": 2,
@@ -27,7 +28,7 @@
     },
     {
       "id": 3,
-      "views": 0,
+      "views": 4,
       "url": "/images/mine.jpg",
       "name": "Mine",
       "tags": [
@@ -53,7 +54,7 @@
       "nickname": "Jane Doe"
     },
     {
-      "views": 0,
+      "views": 16,
       "url": "/images/1717879879232.png",
       "name": "Sodoku",
       "nickname": "James",
@@ -65,9 +66,11 @@
         "sodoku"
       ],
       "timestamp": "Sat, 08 Jun 2024 19:04:25 GMT",
-      "id": 5
+      "id": 5,
+      "likes": 3,
+      "dislikes": 1
     },
-    {  
+    {
       "views": 0,
       "url": "/images/1717884562135.png",
       "name": "Thing",
@@ -80,7 +83,7 @@
       "timestamp": "Sat, 08 Jun 2024 19:04:25 GMT",
       "id": 6
     },
-    { 
+    {
       "views": 0,
       "url": "/images/1717884610406.jpg",
       "name": "space",
@@ -94,7 +97,7 @@
       "id": 7
     },
     {
-      "views": 0,
+      "views": 3,
       "url": "/images/1717910058983.png",
       "name": "Screenshot",
       "nickname": "Dummiez",
@@ -364,6 +367,13 @@
       "comment": "silly image\n",
       "timestamp": "Mon, 10 Jun 2024 02:12:17 GMT",
       "id": 9
+    },
+    {
+      "imageId": "5",
+      "nickname": "sdf",
+      "comment": "vsdvsdv",
+      "timestamp": "2024-06-16T04:01:48.609Z",
+      "id": 10
     }
   ]
 }
