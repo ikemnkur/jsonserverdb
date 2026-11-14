@@ -8,7 +8,6 @@
 
 ## Create your database
 
-1. Press the green `Use this template`-button in the right corner of [this repo](https://github.com/jesperorb/json-server-heroku)
 2. Give your new repo a name and press the green `Create repository from template`-button
 3. Clone your newly created repository to your computer
 
